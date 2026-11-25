@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "ProductPulse HarmonyOS 采集 SDK",
   "author": { "name": "and2long", "email": "and2long@icloud.com" },
+  "repository": "https://github.com/and2long/productpulse-harmonyos-sdk",
   "license": "MIT",
   "main": "Index.ets",
   "dependencies": {}
